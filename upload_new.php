@@ -163,6 +163,8 @@ function getTableData($date, $tblDetails)
 function loadUiData()
 {
     // $date = '03-02-2021';
+
+    
     $tableDet = getTableDetails(); //fetch all table details
     $annexure1Array = array();
     echo "<pre>";
